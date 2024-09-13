@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.red-title{
+color: yellow;
+background-color: darkcyan;
+
+}
+
+.normal-title{
+color:darkmagenta;
+background-color: palegreen;
+}
